@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .bottomDiv {
-    @apply flex justify-center items-center;
+    @apply flex flex-wrap justify-center items-center;
 }
